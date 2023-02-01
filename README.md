@@ -7,7 +7,7 @@ An application that searches for movies, built with Vite, React, JavaScript, and
 ## Preview site
 https://m0viefinder.netlify.app/
 
-
+![alt text](https://iili.io/HJgpNat.png)
 
 
 
